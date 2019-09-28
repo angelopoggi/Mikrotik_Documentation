@@ -1,5 +1,5 @@
 # Mikrotik Documentation
-Pull data from Mikrotik and make it easy to read
+Pull data from Mikrotik and print it to console. This script came about as part of work that included running audit on Mikrotik firewalls.
 
 # Synopsis
 The goal of this project is an excerciese in working with the LibrouterOS Python API and pulling data from a Mikrotik Router.
